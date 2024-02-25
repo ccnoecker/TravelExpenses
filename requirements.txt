@@ -1,3 +1,4 @@
 CurrencyConverter
 ipykernel
+openpyxl
 pandas
